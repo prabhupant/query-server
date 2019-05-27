@@ -18,15 +18,15 @@ scrapers = {
     'ask': Ask(),
     'baidu': Baidu(),
     'bing': Bing(),
-    'dailymotion': DailyMotion(),
+    #'dailymotion': DailyMotion(),
     'duckduckgo': DuckDuckGo(),
     'exalead': ExaLead(),
-    'google': Google(),
-    'mojeek': Mojeek(),
+    #'google': Google(),
+    #'mojeek': Mojeek(),
     'parsijoo': Parsijoo(),
     'quora': Quora(),
     'twitter': Twitter(),
-    'yahoo': Yahoo(),
+    #'yahoo': Yahoo(),
     'youtube': Youtube()
 }
 
