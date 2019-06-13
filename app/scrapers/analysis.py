@@ -347,8 +347,8 @@ if __name__ == '__main__':
         "title": "AAPL Stock Price - Apple Inc. Stock Quote (U.S.: Nasdaq ..."
     }
 ]
-    # karl_pearson_coefficient(data1, data2)
-    # spearman_coefficient(data2)
+    karl_pearson_coefficient(data1, data2)
+    #spearman_coefficient(data2)
 
     # extracting only URLs
     data1 = extract_urls_to_list(data1)
@@ -360,4 +360,4 @@ if __name__ == '__main__':
     # overlap(data1, data2)
     # data1 = [1,2,3,4,5]
     # data2 = [2,3,4,5,6,7,8,9]
-    overlap_second(data1, data2)
+    #overlap_second(data1, data2)
